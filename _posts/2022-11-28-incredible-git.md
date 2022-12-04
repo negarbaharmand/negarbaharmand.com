@@ -5,8 +5,6 @@ categories: [Git]
 tags: [git,thoughts]     # TAG names should always be lowercase
 ---
 
-# Why is Git so incredible?
-
 I believe that Git is brilliant because it allows developers to work locally at will, and synchronize centrally only as needed. Making a new commit is like opening an entry within the history so you can get back to it whenever required. 
 
 Something that I recently learned about Git is that you can edit your last commit if haven’t pushed it to a remote repository yet using:
