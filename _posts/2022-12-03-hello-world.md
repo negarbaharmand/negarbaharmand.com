@@ -5,7 +5,7 @@ categories: [Thoughts]
 tags: [test,thoughts]     # TAG names should always be lowercase
 ---
 
-# Welcome!
+# Welcome! :)
 
 Hello world! This is a sample post.
 
