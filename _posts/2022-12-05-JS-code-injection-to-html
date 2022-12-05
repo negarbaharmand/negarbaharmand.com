@@ -5,7 +5,7 @@ categories: [JavaScript]
 tags: [javascript,js]     # TAG names should always be lowercase
 ---
 
-*Probably most coders out there have once become as excited as I got today when they injected a code from JavaScript into the HTML for the first time!*
+*Most coders out there have probably once become as excited as I got today when they injected a code from JavaScript into the HTML for the first time!*
 
 This process happens by writing a classified **ul** in HTML(so we can point at it in JavaScript later), making an array of values, and generating the list items for each array item using JavaScript. Now we only need to address the **ul** and inject out **li** code inside it. 
 In the code below you can see how I made a lis of my siblings and injected it to ul.siblings. 
