@@ -1,6 +1,6 @@
 ---
 title: Let JS do the work!
-date: 2022-12-05 08:00:00 +0100
+date: 2022-11-05 08:00:00 +0100
 categories: [JavaScript]
 tags: [javascript,js]     # TAG names should always be lowercase
 ---
@@ -11,7 +11,7 @@ This process happens by writing a classified **ul** in HTML (so we can point at 
 In the code below you can see how I made a lis of my siblings and injected it to ul.siblings. 
 
 
-```JavaScript
+```javascript
 //get a refrence to the 'ul
 const ul = document.querySelector('.siblings');
 
@@ -27,5 +27,5 @@ console.log(html);
 ul.innerHTML = html;
 ```
 
-Feel free to check out the both HTML and JavaScript codes for [My siblings list](https://duckduckgo.com).
+Feel free to check out the both HTML and JavaScript codes for [My siblings list](https://jsfiddle.net/4cgs6kwy/1/).
 
