@@ -1,8 +1,0 @@
----
-title: How to vertically align two or more elements in a div using flexbox?
-date: 2022-12-07 19:00:00 +0100
-categories: [CSS, Flexbox]
-tags: [css, flexbox] # TAG names should always be lowercase
----
-
-There are probably countless ways for aligning items out there but this time I'm using flexbox which lets us align anything (vertically or horizontally) quite painlessly!
