@@ -26,4 +26,4 @@ After making the ven we need to activate it:
 source env/bin/activate
 ```
 
-source:freecodecamp.org
+Source: freecodecamp.org
